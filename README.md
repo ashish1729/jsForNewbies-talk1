@@ -4,6 +4,4 @@
 
 examples for the session
 
-open examples.md file 
-
 link to the event [JS For Newbies Session 1](https://www.meetup.com/JavaScript-Meetup-Bangalore/events/246187240/)
