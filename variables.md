@@ -2,6 +2,8 @@
 
 give name to a value so that its easier to use later
 
+*case sensitive*
+
 **three ways to declare variables
 
 - let
