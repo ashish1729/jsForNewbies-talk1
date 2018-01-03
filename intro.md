@@ -1,3 +1,11 @@
+### basic intro
+
+what is javascript
+
+javascript at server side
+
+how to run
+
 ### to print something
 
 **Remember this**
