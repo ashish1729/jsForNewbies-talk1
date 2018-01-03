@@ -58,3 +58,6 @@ a special value undefined gets assigned called `undefined`
 let a;
 console.log(a)
 ```
+
+
+### no fixed types
