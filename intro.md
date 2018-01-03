@@ -28,6 +28,8 @@ console.log('Hello World!');
 
 we shall see boolean, string and number for now
 
+*escaping in strings*
+
 ``` javascript
 // numbers
 console.log(1)
