@@ -53,20 +53,6 @@ console.log("abc\'def");
 ```
 ---
 
-### simple maths [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
-
-```javascript
-console.log(1 + 2); 
-console.log(3 - 1); 
-console.log(3 * 4); 
-console.log(6 / 3);
-console.log(5 % 2);
-
-// check this out
-console.log(5 / 2) // 2.5 not 2 ans in some other languages
-```
----
-
 ### Comments
 
 ```javascript
