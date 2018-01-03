@@ -5,3 +5,8 @@
 examples for the session
 
 link to the event [JS For Newbies Session 1](https://www.meetup.com/JavaScript-Meetup-Bangalore/events/246187240/)
+
+
+
+## TODO
+prepare intro to js before getting into code
