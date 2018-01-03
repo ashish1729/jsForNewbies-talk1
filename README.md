@@ -10,3 +10,7 @@ link to the event [JS For Newbies Session 1](https://www.meetup.com/JavaScript-M
 
 ## TODO
 prepare intro to js before getting into code
+
+more examples for topics 
+
+time estimation
