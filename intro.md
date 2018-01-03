@@ -6,6 +6,8 @@ javascript at server side
 
 how to run
 
+[link for intro](https://javascript.info/intro)
+
 ### to print something
 
 **Remember this**
