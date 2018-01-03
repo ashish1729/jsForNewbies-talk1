@@ -28,7 +28,7 @@ console.log('Hello World!');
 
 we shall see boolean, string and number for now
 
-*escaping in strings*
+
 
 ``` javascript
 // numbers
@@ -43,6 +43,13 @@ console.log(false)
 // strings - can be in single or double quotes
 console.log('hello')
 console.log("hello")
+```
+
+*escaping in strings*
+
+```javascript
+console.log('abc\'def');
+console.log("abc\'def");
 ```
 ---
 
