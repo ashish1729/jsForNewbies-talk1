@@ -59,4 +59,6 @@ function () {
 
 ### arrow functions 
 
+*are for function expressions*
+
 [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
