@@ -50,7 +50,11 @@ name = 'John Doe'
 
 ---
 
-###undefined
+**demo that values can be of different type for same variable**
+
+---
+
+### undefined
 
 What happens if you create a variable, but don't assign it a value?
 
