@@ -15,9 +15,13 @@ function hello() {
 //calling function
 hello();
 ```
+###### output:
+```
+hello world
+```
 
 
-***taking parameters
+***taking parameters***
 ```javascript
 function hello(name) {
   console.log('hello ' + name);
@@ -25,9 +29,22 @@ function hello(name) {
 
 // parameters can be more than one
 // addition example
+function helloToMany(name1, name2) {
+  console.log('hello ' + name1 + " and " + name2);
+}
+
+hello("ashish");
+helloToMany("ashish", "janardan");
+
+```
+###### output:
+```
+hello ashish
+hello ashish and janardan
 ```
 
-***return statement
+
+***return statement***
 
 ```javascript
 // function can give a value which we can use
@@ -36,6 +53,12 @@ function add(a,b){
   let ans = a + b;
   return ans;
 }
+let result = add(10,20);
+console.log(result);
+```
+###### output
+```
+30
 ```
 
 ### function declaration
@@ -51,7 +74,7 @@ function test(args) {
 ### function expression
 
 ```javascript
-function () {
+const myFunction = function () {
   //body
 }
 ```
