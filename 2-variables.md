@@ -2,6 +2,8 @@
 
 give name to a value so that its easier to use later
 
+name should begin with letter, $ or _
+
 *case sensitive*
 
 **three ways to declare variables
