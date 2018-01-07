@@ -19,6 +19,8 @@ console.log('Hello World!');
 
 ### semi colon ?
 
+---
+
 ### data types [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 - Boolean
