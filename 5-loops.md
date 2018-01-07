@@ -54,6 +54,10 @@ for(let i = 0 ; i< 10 ;i++ ) {
 
 **nested loops***
 // print 11 12 13 14 21 22 23 24 31 32 33 34
+// sum 1 to 10
+// reverse order of loops
+
+// print first 5 even numbers // demo continue and break 
 
 ### labelled statements
 
