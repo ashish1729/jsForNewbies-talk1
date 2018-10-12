@@ -4,6 +4,8 @@
 
 examples for the session
 
+Presenter: Ashish Singh
+
 link to the event [JS For Newbies Session 1](https://www.meetup.com/JavaScript-Meetup-Bangalore/events/246187240/)
 
 
